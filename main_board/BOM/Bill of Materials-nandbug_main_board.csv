@@ -1,0 +1,24 @@
+Designator,Part Name,Footprint,Quantity,Value,Manufacturer,Comment
+"C1, C3, C7, C23, C35, C42",C19702,C0603,6,10uF,Samsung Electro-Mechanics,generic_capacitor
+"C2, C4, C5, C6, C8, C9, C10, C11, C12, C13, C14, C15, C16, C20, C25, C27, C28, C29, C30, C31, C32, C33, C34, C37, C38, C39, C40, C43, C44",C1525,C0402,29,100nF,Samsung Electro-Mechanics,generic_capacitor
+"C17, C18, C19",C23733,C0402,3,4.7uF,Samsung Electro-Mechanics,generic_capacitor
+"C21, C22",C1562,C0402,2,33pF,Guangdong Fenghua Advanced Tech,generic_capacitor
+"C24, C36",C52923,C0402,2,1uF,Samsung Electro-Mechanics,generic_capacitor
+"C26, C41",C15195,C0402,2,10nF,Samsung Electro-Mechanics,generic_capacitor
+D1,1N4148W,SOD-123,1,,Semtech,1N4148W
+"D2, D3, D4",KT-0603R,LED0603,3,,Hubei KENTO Elec,KT-0603R
+J1,10118192-0001LF,10118192-0001LF,1,,AMPHENOL ICC,USB Micro
+J2,DF17(3.0)-20DS-0.5V(57),DF17(3_0)-20DS-0_5V,1,,Hirose,DF17(3.0)-20DS-0.5V(57)
+R1,C23052,R0603,1,422O,Uniroyal Elec,generic_resistor
+R2,C22984,R0603,1,30KO,Uniroyal Elec,generic_resistor
+R3,C25752,R0402,1,12KO,Uniroyal Elec,generic_resistor
+R4,C11702,R0402,1,1KO,Uniroyal Elec,generic_resistor
+"R5, R6, R7, R9, R10, R12, R13",C25744,R0402,7,10KO,Uniroyal Elec,generic_resistor
+R8,C25879,R0402,1,2.2KO,Uniroyal Elec,generic_resistor
+R11,C25076,R0402,1,100O,Uniroyal Elec,generic_resistor
+"R14, R15, R16",C25091,R0402,3,220O,Uniroyal Elec,generic_resistor
+U1,ICE40HX1K-TQ144,TQFP-144 20X20MM,1,,Lattice Semiconductor,ICE40HX1K-TQ144
+U2,FT2232HL,TQFP-64 10X10MM,1,,Future Designs,FT2232HL
+U3,93LC56B-I/SN,SOIC-8-NB,1,,Microchip Technology,93LC56B-I/SN
+U4,TPS767D301PWPR,R-PDSO-G28,1,,Texas Instruments,TPS767D301PWPR
+X1,X322512MSB4SI,TSX-3225,1,,Yangxing Tech,X322512MSB4SI
